@@ -1,0 +1,61 @@
+Demographic,Wealth,Series
+0,"	-0.2",United States2001household
+0.1,-0.1,United States2001household
+0.2,0.2,United States2001household
+0.3,1.1,United States2001household
+0.4,2.8,United States2001household
+0.5,5.6,United States2001household
+0.6,10.1,United States2001household
+0.7,17.4,United States2001household
+0.8,30.2,United States2001household
+0.9,69.8,United States2001household
+0.95,115.4,United States2001household
+0.99,327,United States2001household
+0,"	-0.2",United States2007household
+0.1,-0.2,United States2007household
+0.2,0.1,United States2007household
+0.3,0.9,United States2007household
+0.4,2.5,United States2007household
+0.5,5.3,United States2007household
+0.6,9.7,United States2007household
+0.7,16.6,United States2007household
+0.8,28.5,United States2007household
+0.9,71.5,United States2007household
+0.95,120.8,United States2007household
+0.99,338,United States2007household
+0,"	-0.7",United States2010household
+0.1,-0.7,United States2010household
+0.2,-0.5,United States2010household
+0.3,0,United States2010household
+0.4,1.2,United States2010household
+0.5,3.3,United States2010household
+0.6,7,United States2010household
+0.7,13.3,United States2010household
+0.8,25.6,United States2010household
+0.9,74.4,United States2010household
+0.95,121.8,United States2010household
+0.99,341,United States2010household
+0,,
+0.1,"	-0.7",United States2013household
+0.2,-0.5,United States2013household
+0.3,0,United States2013household
+0.4,1.1,United States2013household
+0.5,3.2,United States2013household
+0.6,6.9,United States2013household
+0.7,13,United States2013household
+0.8,25,United States2013household
+0.9,75,United States2013household
+0.95,,United States2013household
+0.99,355,United States2013household
+0,"	-0.5",United States2016household
+0.1,-0.5,United States2016household
+0.2,-0.3,United States2016household
+0.3,0.1,United States2016household
+0.4,1.2,United States2016household
+0.5,3.1,United States2016household
+0.6,6.3,United States2016household
+0.7,11.7,United States2016household
+0.8,22.9,United States2016household
+0.9,77.1,United States2016household
+0.95,130.2,United States2016household
+0.99,386,United States2016household
